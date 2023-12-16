@@ -1,5 +1,5 @@
 {
-  "name": "vue-script-x",
+  "name": "vue-script-xx",
   "version": "0.2.5",
   "description": "VueScriptS brings back the <script> tag to your Vue projects!",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javascript-1024/vue-script-x.git"
+    "url": "git+https://github.com/javascript-1024/vue-script-xx.git"
   },
   "keywords": [
     "vue3",
@@ -29,9 +29,9 @@
   "author": "paaksing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javascript-1024/vue-script-x/issues"
+    "url": "https://github.com/javascript-1024/vue-script-xx/issues"
   },
-  "homepage": "https://github.com/javascript-1024/vue-script-x#readme",
+  "homepage": "https://github.com/javascript-1024/vue-script-xx#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
